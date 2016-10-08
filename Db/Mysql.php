@@ -1,5 +1,5 @@
 <?
 namespace Mysql;
 class Mysql{
-   
+
 }
