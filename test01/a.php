@@ -1,2 +1,2 @@
 <?
-echo 'runningman';
+echo 'running';
