@@ -1,0 +1,5 @@
+<?
+namespace Mysqli;
+class Mysqli{
+
+}

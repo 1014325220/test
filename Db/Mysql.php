@@ -1,0 +1,5 @@
+<?
+namespace Mysql;
+class Mysql{
+   
+}

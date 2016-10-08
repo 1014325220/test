@@ -1,0 +1,5 @@
+<?
+namespace PDO;
+class PDO{
+   
+}
